@@ -1,0 +1,57 @@
+{
+    "Saloon": 
+    [
+ 
+       {
+          "category": "Men",
+          "category-id":"01",
+          "sub-category": "style-name",
+          "style-type": "beard,hairstyle,combo(beard and hairstyle)",
+          "id":"B-01 H-02 C-03 ", 
+          "Expert": "Name",
+          "price":"100$",
+          "Full-Name":"customer-name",
+          "date":"Date",
+          "time":"Time",
+          "Contact Number":"Number",
+          "address":"Address",
+          "email-address":"email",
+          "payment":"payment-mode",
+          "Expert-type":
+          [
+              {
+                "hairstyle-Expert":"Name",
+                "beard-Expert":"Name",
+                "combo-Expert":"Name"
+              }
+              
+          ]
+
+       },
+ 
+       {
+        "category": "Ladies",
+        "category-id":"01",
+        "sub-category": "style-name",
+        "style-type": " hairstyle",
+        "id":"H-02", 
+        "Expert": "Name",
+        "price":"200$",
+        "Full-Name":"customer-name",
+        "date":"Date",
+        "time":"Time",
+        "Contact Number":"Number",
+        "address":"Address",
+        "email-address":"email",
+        "payment":"payment-mode",
+        "Expert-type":
+        [
+            {
+                "hairstyle-expert":"Name"
+            }
+        ]
+       }
+ 
+    ]
+ }
+ 
